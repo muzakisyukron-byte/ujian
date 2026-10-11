@@ -1,0 +1,44 @@
+[
+    {
+        "student_name": "hrhrh",
+        "exam_number": "35235",
+        "birth_info": "gfrgf, 2026-10-01",
+        "school_origin": "fgnb",
+        "answers": "[1,1,1,2,0,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+        "doubted_questions": "[]",
+        "score": 6,
+        "total_correct": 3,
+        "total_questions": 50,
+        "completion_time": "2026-10-11T17:54:48.903Z",
+        "duration_minutes": 2,
+        "survey_answers": "{\"51\":\"4\",\"52\":\"3\",\"53\":\"4\",\"54\":\"3\",\"55\":\"4\",\"56\":\"3\",\"57\":\"4\",\"58\":\"3\",\"59\":\"4\",\"60\":\"3\",\"61\":\"4\",\"62\":\"3\",\"63\":\"2\",\"64\":\"3\",\"65\":\"3\",\"66\":\"2\",\"67\":\"3\",\"68\":\"3\",\"69\":[\"Olahraga\",\"Membantu orang tua\"],\"70\":[\"Membaca sendiri\",\"Praktik langsung\"],\"71\":[\"Memberi ide\",\"Mengerjakan tugas teknis\"],\"72\":[\"Mengaji\",\"Ceramah\/tausiah\",\"Kegiatan sosial keagamaan\"],\"73\":\"Belum\",\"74\":\"3\",\"75\":\"3\",\"76\":\"3\",\"77\":\"3\",\"78\":\"3\",\"79\":\"fsfvs\",\"80\":\"dbgfbd\",\"81\":\"dgbdb\"}"
+    },
+    {
+        "student_name": "ddd",
+        "exam_number": "nfdn",
+        "birth_info": "vb, 2026-10-16",
+        "school_origin": "gd",
+        "answers": "[0,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+        "doubted_questions": "[]",
+        "score": 2,
+        "total_correct": 1,
+        "total_questions": 50,
+        "completion_time": "2026-10-11T18:13:29.899Z",
+        "duration_minutes": 1,
+        "survey_answers": "{\"51\":\"3\",\"52\":\"3\",\"53\":\"3\",\"54\":\"3\",\"55\":\"3\",\"56\":\"3\",\"57\":\"4\",\"58\":\"3\",\"59\":\"3\",\"60\":\"4\",\"61\":\"3\",\"62\":\"3\",\"63\":\"3\",\"64\":\"3\",\"65\":\"4\",\"66\":\"4\",\"67\":\"3\",\"68\":\"3\",\"69\":[\"Olahraga\",\"Menggambar\/menulis\",\"Membantu orang tua\"],\"70\":[\"Membaca sendiri\",\"Praktik langsung\"],\"71\":[\"Memberi ide\",\"Mengikuti arahan teman\"],\"72\":[\"Mengaji\",\"Ceramah\/tausiah\"],\"73\":\"Belum\",\"74\":\"4\",\"75\":\"4\",\"76\":\"3\",\"77\":\"2\",\"78\":\"2\",\"79\":\"yrr\",\"80\":\"yrjyr\",\"81\":\"frfrfr\"}"
+    },
+    {
+        "student_name": "d",
+        "exam_number": "6",
+        "birth_info": "hngcf, 2026-10-11",
+        "school_origin": "hc",
+        "answers": "[1,1,2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+        "doubted_questions": "[]",
+        "score": 6,
+        "total_correct": 3,
+        "total_questions": 50,
+        "completion_time": "2026-10-11T18:29:10.778Z",
+        "duration_minutes": 1,
+        "survey_answers": "{\"51\":\"1\",\"52\":\"1\",\"53\":\"1\",\"54\":\"1\",\"55\":\"1\",\"56\":\"1\",\"57\":\"1\",\"58\":\"1\",\"59\":\"1\",\"60\":\"1\",\"61\":\"1\",\"62\":\"1\",\"63\":\"1\",\"64\":\"1\",\"65\":\"1\",\"66\":\"1\",\"67\":\"1\",\"68\":\"1\",\"69\":[\"Membaca\",\"Mengaji atau beribadah\"],\"70\":[\"Mendengarkan penjelasan\",\"Diskusi dengan teman\"],\"71\":[\"Menjadi pemimpin\",\"Mengerjakan tugas teknis\"],\"72\":[\"Salat berjamaah\"],\"73\":\"Ya\",\"74\":\"1\",\"75\":\"1\",\"76\":\"1\",\"77\":\"1\",\"78\":\"1\",\"79\":\"f\",\"80\":\",l\",\"81\":\",j\"}"
+    }
+]
